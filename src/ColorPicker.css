@@ -1,0 +1,26 @@
+/* Container for the entire ColorPicker component */
+.color-picker {
+    display: inline-block; /* or use any other display property */
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Styles for the color list container */
+  .color-list {
+    display: flex; /* or any other desired layout */
+    flex-wrap: wrap; /* Wrap color boxes to the next line if needed */
+    margin-top: 10px;
+  }
+  
+  /* Individual color boxes */
+  .color-box {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+  }
+  
