@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import "D:\\Importants\\Ethanus mern stack internship program course\\React\\colorpicker\\src\\ColorPicker.css";
+import "./ColorPicker.css";
 
 class ColorPicker extends Component {
   constructor(props) {
