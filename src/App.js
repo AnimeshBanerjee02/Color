@@ -1,5 +1,5 @@
 import React from 'react';
-import ColorPicker from "D:\\Importants\\Ethanus mern stack internship program course\\React\\colorpicker\\src\\Component\\ColorPicker.js";
+import ColorPicker from "./ColorPicker";
 
 const App = () => {
   const colors = ['red', 'blue', 'green', 'yellow', 'orange', 'purple', 'pink', 'brown', 'teal', 'gray'];
